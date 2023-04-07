@@ -11,7 +11,7 @@
 
 <h3 align="center">📱 𝗠𝗼𝗯𝗶𝗹𝗲</h3>
 
-<img>![ssmobile](https://user-images.githubusercontent.com/61363533/230657666-0a054f38-9597-4d52-b661-a28e706f8029.png)</img>
+![2023-04-07-2055-49](https://user-images.githubusercontent.com/61363533/230666286-9cc1a4c3-cce4-4076-a20b-27ad4395d7f6.gif)
 
 
 
