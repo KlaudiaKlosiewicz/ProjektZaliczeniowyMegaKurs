@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Klaudia</h1>
+<h2 align="center">Pojekt Pogodynka</h2>
 ## Available Scripts
 
 In the project directory, you can run:
