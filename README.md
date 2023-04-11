@@ -33,6 +33,16 @@
 <p>Run npm start, or go into npm show scripts </p>
 <p>Application start on http://localhost:3000</p>
 
+<h3 align="center">Demo</h3>
+
+https://user-images.githubusercontent.com/61363533/231206025-334fc1e4-9e53-4255-9b66-e3c4afed9bec.mp4
+
+</br>
+
+<h3 align="center">Demo responsywność</h3>
+
+https://user-images.githubusercontent.com/61363533/231206536-37cdbb69-19d7-4794-869b-26b8bec2b8e5.mp
+
 
 </br>
 
