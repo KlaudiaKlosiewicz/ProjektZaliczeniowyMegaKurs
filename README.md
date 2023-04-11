@@ -48,6 +48,6 @@ https://user-images.githubusercontent.com/61363533/231206536-37cdbb69-19d7-4794-
 
 </br>
 
-<p> Made with ❤ by Klaudia K. </p>
+<sub> Made with ❤ by Klaudia K. </sub>
 
 
